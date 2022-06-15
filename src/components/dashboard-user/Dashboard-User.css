@@ -1,0 +1,71 @@
+.project-wrapper {
+    width: 80%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f9f9f9;
+    padding-top: 40px
+}
+
+.project {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1.5rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.project-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.dashboard {
+    background-color: #f9f9f9;
+}
+
+.technical-resources-wrapper {
+    display: inline-block;
+    border: 1px solid black;
+    margin-right: 15px;
+    width: 165px;
+}
+
+.technical-resources {
+    margin: 15px;
+}
+
+.project-image-user {
+    width: 364px;
+    height: 226px;
+}
+
+.resource-image {
+    width: 141px;
+    height: 106px;
+    margin: auto;
+    display: block;
+}
+
+.resource-header {
+    margin: 5px;
+    text-align: center;
+}
+
+.resource-designation {
+    text-align: center;
+}
+
+.button-span-apply {
+    display: flex;
+    margin: 10px;
+}
+
+.button {
+    background-color: #1dabe5;
+    border: 1px solid #1dabe5;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
